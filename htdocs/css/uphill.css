@@ -1,0 +1,59 @@
+html {
+    
+    background-color: #FFFFFF;
+    
+    color: #000000;
+    
+    display: inline-block;
+}
+
+body {
+
+    /*
+    
+    background-image: url("space.png");
+    
+    text-align: center;
+    */
+    
+    margin: 0px;
+}
+
+.inlinediv {
+
+    display: inline-block;
+    
+    padding: 5px;
+    
+    border: 1px solid blue;
+
+}
+
+#mainframe {
+
+    display: inline-block;
+}
+
+table {
+
+
+    
+    display: inline-block;
+    
+}
+
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.green {
+
+    background-color: green;
+
+}
+
+.red {
+
+    background-color: red;
+}
