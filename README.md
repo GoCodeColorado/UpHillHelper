@@ -9,3 +9,4 @@ Current Code creates a set of predictions using Newtons Second Law (F = ma)
 
 Should be able to substitute static data with database data and feed output to Google Maps as a set of Waypoints which would create an alternate route.
 
+Files should be placed in /htdocs/uphill/index.php and /htdocs/css/uphill.css
